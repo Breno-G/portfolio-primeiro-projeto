@@ -12,5 +12,7 @@ No menu há uma seção chamada "Curriculo Alura". Onde entrarão todos os curso
 * Flex-box
 
 ##Feito por:
+
 ###Breno Gonçalves
+
 ###Linkedin: https://www.linkedin.com/in/breno-gonçalves-6a726a133/
