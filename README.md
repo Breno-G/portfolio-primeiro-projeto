@@ -5,13 +5,13 @@ O site está bem simples, mas a ideia é desenvolver ainda mais ele, conforme mi
 
 No menu há uma seção chamada "Curriculo Alura". Onde entrarão todos os cursos concluidos na Alura.
 
-##Ferramentas Utilizadas:
+## Ferramentas Utilizadas:
 
 * HTML
 * CSS
 * Flex-box
 
-Feito por:
+## Feito por:
 
-Breno Gonçalves
-Linkedin: https://www.linkedin.com/in/breno-gonçalves-6a726a133/
+### Breno Gonçalves
+### Linkedin: https://www.linkedin.com/in/breno-gonçalves-6a726a133/
