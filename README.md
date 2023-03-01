@@ -11,8 +11,8 @@ No menu há uma seção chamada "Curriculo Alura". Onde entrarão todos os curso
 * CSS
 * Flex-box
 
-##Feito por:
+#Feito por:
 
-###Breno Gonçalves
+##Breno Gonçalves
 
-###Linkedin: https://www.linkedin.com/in/breno-gonçalves-6a726a133/
+##Linkedin: https://www.linkedin.com/in/breno-gonçalves-6a726a133/
